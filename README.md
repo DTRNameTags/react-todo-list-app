@@ -11,4 +11,5 @@ Features:
 2. Extract The Code
 3. Open Powershell Run `npm i`
 4. Run `npm run dev`
-5. Enjoy.
+5. Go To `http://localhost:5173`
+6. Enjoy.
